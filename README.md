@@ -27,9 +27,8 @@ The analysis is based on simulated e-commerce sales and customer data, and the r
 
 ## 📂 Project Structure
 ├── 📄 README.md # Documentation and project summary
-├── 📄 Sales_Performance_Analysis_Report.pptx # Analytical report with insights and recommendations
 ├── 📄 Sales_Dashboard.twbx # Interactive Tableau dashboard (Tableau workbook)
-
+├── 📄 Sales_Performance_Analysis_Report.pptx # Analytical report with insights and recommendations
 
 ---
 
